@@ -2,7 +2,7 @@
   <img src="./Frame 283.png" alt="banner" />
 </p>
 <p align="center">
-  <img src="./Frame 285 (1)-Photoroom 1.png" alt="banner" />
+  <img src="./Frame 285 (1)-Photoroom 1.png" />
 </p>
 
 
