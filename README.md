@@ -1,12 +1,12 @@
 <p align="center">
   <img src="./Frame 283.png" alt="banner" />
 </p>
-![](./metallica.png)
-Say your prayers, little one
-Don't forget, my son
-To include everyone
-I tuck you in, warm within, keep you free from sin
-'Til the Sandman, he comes
+
+Say your prayers, little one  
+Don't forget, my son  
+To include everyone  
+I tuck you in, warm within, keep you free from sin  
+'Til the Sandman, he comes  
 <!--
 **Artur22813/Artur22813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
