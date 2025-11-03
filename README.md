@@ -1,7 +1,8 @@
  Hi there 👋
 <p align="center">
-  <img src="[./cb89d30b9aa9968c2afb5629e9ddc271.jpg)" alt="banner" />
+  <img src="./cb89d30b9aa9968c2afb5629e9ddc271.jpg" alt="banner" />
 </p>
+
 <!--
 **Artur22813/Artur22813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
