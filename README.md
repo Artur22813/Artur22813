@@ -3,11 +3,7 @@
 </p>
 <p align="center">
   <img src="./Frame 285 (1)-Photoroom 1.png" alt="banner" />
-</p>
-<div style="text-align: center; white-space: pre-line;">
-    "Enter Sandman"
-
- Say your prayers, little one  
+   Say your prayers, little one  
            Don't forget, my son  
     To include everyone  
 
@@ -17,7 +13,10 @@ Keep you free from sin
 
   Sleep with one eye open  
          Gripping your pillow tight  
-</div>
+</p>
+
+
+
 <!--
 **Artur22813/Artur22813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
