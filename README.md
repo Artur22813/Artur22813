@@ -1,11 +1,6 @@
 <p align="center">
   <img src="./Frame 283.png" alt="banner" />
 </p>
-<p align="center">
-  <img src="./cd0d5dd4-631e-4ff2-9392-df3989745e50-Photoroom.png" />
-</p>
-
-
 
 <!--
 **Artur22813/Artur22813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
