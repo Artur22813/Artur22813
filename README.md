@@ -1,5 +1,7 @@
  Hi there 👋
-![Header]([https://i.imgur.com/yourimage.png](https://i.pinimg.com/1200x/cb/89/d3/cb89d30b9aa9968c2afb5629e9ddc271.jpg))
+<p align="center">
+  <img src="[https://i.imgur.com/yourimage.png](https://i.pinimg.com/1200x/cb/89/d3/cb89d30b9aa9968c2afb5629e9ddc271.jpg)" alt="banner" />
+</p>
 <!--
 **Artur22813/Artur22813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
