@@ -1,7 +1,9 @@
 <p align="center">
   <img src="./Frame 283.png" alt="banner" />
 </p>
-
+<p align="center">
+  <img src="./metallica.png" alt="banner" />
+</p>
 Say your prayers, little one  
 Don't forget, my son  
 To include everyone  
