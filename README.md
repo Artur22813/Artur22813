@@ -3,16 +3,6 @@
 </p>
 <p align="center">
   <img src="./Frame 285 (1)-Photoroom 1.png" alt="banner" />
-   Say your prayers, little one  
-           Don't forget, my son  
-    To include everyone  
-
-  I tuck you in, warm within  
-Keep you free from sin  
-      Till the Sandman he comes  
-
-  Sleep with one eye open  
-         Gripping your pillow tight  
 </p>
 
 
